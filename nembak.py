@@ -1,14 +1,16 @@
 Nembak Tool
-1 _ apt update
 
-2 _ apt upgrade
 
-3 _ pkg install python2
+apt update
 
-4 _ pkg install git
+apt upgrade
 
-5 _ git clone https://github.com/Xeit666h05t/Nembak-Tools.git
+pkg install python2
 
-6 _ cd Nembak-Tools
+pkg install git
 
-7 _ python2 nembak.py
+git clone https://github.com/Xeit666h05t/Nembak-Tools.git
+
+cd Nembak-Tools
+
+python2 nembak.py
